@@ -1,0 +1,40 @@
+img{
+    width: 700px;
+    height: 450px;
+    margin-left: 500px;
+}
+h1{
+    font-size: 52px;
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 670px;
+}
+h2{
+    font-size: 34px;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 670px;
+}
+.social{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 30px;
+    font-size: 22px;
+    color: green;
+}
+.uni{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 19px;
+    margin-left: 60px;
+}
+.r{
+    list-style-type: unset;
+    margin-left: 95px;
+    font-size: 19px;
+    list-style-type: square ;
+}
+.math{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 30px;
+    font-size: 22px;
+    color: green;
+}
